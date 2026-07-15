@@ -1,6 +1,6 @@
-# Luckfox Lume Documentation
+# Luckfox Pico2 Documentation
 
-This repository contains the documentation, hardware resources, tools, and example code for Luckfox Lume
+This repository contains the documentation, hardware resources, tools, and example code for Luckfox Pico2
 
 ## Directory Structure
 
@@ -9,11 +9,8 @@ Luckfox-Lume-docs/
 ├── Code/
 ├── Docs/
 │   ├── datasheets/
-│   ├── en/
-│   └── zh/
+│   └── Manuals/
 ├── Hardware/
-│   ├── 3D Models/
-│   ├── CAD/
 │   └── Schematic/
 ├── Tools/
 ├── README.md
@@ -24,7 +21,7 @@ Luckfox-Lume-docs/
 
 | Directory | Description |
 | --- | --- |
-| `Code/` | Example code, demo projects, scripts, and source files related to Luckfox Lume development. |
+| `Code/` | Example code, demo projects, scripts, and source files related to Luckfox Pico2 development. |
 | `Docs/datasheets/` | Chip datasheets, module specifications, interface documents, and other reference PDFs. |
 | `Docs/en/` | English user manuals, tutorials, quick-start guides, and development notes. |
 | `Docs/zh/` | Chinese user manuals, tutorials, quick-start guides, and development notes. |
