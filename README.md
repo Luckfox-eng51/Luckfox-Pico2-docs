@@ -5,7 +5,7 @@ This repository contains the documentation, hardware resources, tools, and examp
 ## Directory Structure
 
 ```text
-Luckfox-Lume-docs/
+Luckfox-Pico2-docs/
 ├── Code/
 ├── Docs/
 │   ├── datasheets/
